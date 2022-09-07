@@ -6,7 +6,8 @@
 trigger:
 - master
 
-pool: Defalut
+pool: 
+  name: Default
 strategy:
   matrix:
     Python37:
