@@ -10,7 +10,7 @@ pool:
   name: Default
 strategy:
   matrix:
-    Python37:
+    Python36:
       python.version: '3.6'
 
 steps:
