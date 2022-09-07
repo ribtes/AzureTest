@@ -35,3 +35,4 @@ steps:
     script: |
       print("Hello World 1")
       print("Hello World 2")
+  displayName: 'Excute PythonScript'
